@@ -33,6 +33,17 @@ Run on **2026-11-20** in the in-app Chromium browser against `http://localhost:8
 
 `sw.js` uses `road-safety-v2` and all **23** cached paths exist on disk.
 
+## Published-site check
+
+After uploading to GitHub Pages, the live site was opened in Chromium:
+
+- Title: **Road Safety Adventure**
+- Active scene: `Menu`
+- Phaser: **3.90.0**
+- Console errors: **none**
+- Service worker registration: **active**
+- URL opened: <https://prarthanamishra.com.np/road-safety-adventure/> (the `github.io` URL redirects here)
+
 ## Still required before submission
 
 - Real phone/tablet, touch, landscape and airplane-mode tests (A5).
