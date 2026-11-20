@@ -1,5 +1,15 @@
 # 08 — How to share the game with a link
 
+## This project is already published ✅
+
+- **Share this link:** <https://prarthanamishra.com.np/road-safety-adventure/>
+- **GitHub Pages link:** <https://prarthanamishra2007-prog.github.io/road-safety-adventure/> (redirects to the link above)
+- **Source repository:** <https://github.com/prarthanamishra2007-prog/road-safety-adventure>
+
+The live site was checked in Chrome: it loads to the Menu with Phaser 3.90 and no console errors, and the offline service worker is active.
+
+---
+
 `http://localhost:8000` only works on **your** computer. To send a link that works for judges, teachers and pupils, publish the project online. The game is a set of static files, so hosting is free.
 
 Two easy options are below. **GitHub Pages** is recommended because the guide uses it. **Netlify Drop** is faster if you do not want to install Git.
