@@ -5,8 +5,8 @@ Status checked against the workspace on **2026-11-20**. Nothing here claims the 
 ## A. Only a human can do these (all still OPEN)
 
 ### Setup and publishing
-- [ ] Create the public GitHub repository `road-safety-adventure` and push the starter kit (guide §1.4–1.5).
-- [ ] Enable **GitHub Pages**: main branch, `/(root)` (guide A1). Share the live link.
+- [x] Create the public GitHub repository `road-safety-adventure` and upload all files — <https://github.com/prarthanamishra2007-prog/road-safety-adventure>.
+- [x] Enable **GitHub Pages**: main branch, `/(root)` — live at <https://prarthanamishra.com.np/road-safety-adventure/> and <https://prarthanamishra2007-prog.github.io/road-safety-adventure/>.
 - [ ] Add the teammate as a **collaborator** and accept the invite (guide §1.4).
 - [ ] Before release, bump `CACHE_NAME` in `sw.js` again after the final change (it is currently `"road-safety-v2"`) and create a GitHub release tagged `v1.0-pilot`.
 
