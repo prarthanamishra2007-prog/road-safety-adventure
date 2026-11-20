@@ -1,0 +1,20 @@
+/* The page only holds the game. Phaser scales the game to fit the screen. */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #1f2d3d;
+    overflow: hidden;
+    /* stops the page from scrolling or zooming when a child taps fast on a tablet */
+    touch-action: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+#game {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
