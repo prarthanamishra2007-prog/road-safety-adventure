@@ -2,6 +2,14 @@
 
 An interactive road-safety game for children aged 5–12 in Nepal, built with **Phaser 3**. It runs in any modern browser, on computers, tablets and phones, and works **offline** after the first visit.
 
+## Live demo
+
+- **Custom domain:** <https://prarthanamishra.com.np/road-safety-adventure/>
+- **GitHub Pages:** <https://prarthanamishra2007-prog.github.io/road-safety-adventure/>
+- **Repository:** <https://github.com/prarthanamishra2007-prog/road-safety-adventure>
+
+The GitHub Pages link redirects to the custom domain. Both open the same game.
+
 ## What makes it different
 
 1. **Made for Nepal:** traffic keeps to the left, so children learn to **look RIGHT first**. Streets include microbuses, tempos, traffic police, overhead bridges and roads without footpaths.
